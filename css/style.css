@@ -1,0 +1,46 @@
+#zoo2{
+    width: 400px;
+    height: 800px;
+    margin-right: 70%;
+    margin-top: -15%;
+    border: 3px;
+    border-style:dashed;
+}
+
+#zoo1{
+    width: 100%;
+}
+
+body{
+    font-size: 80px;
+    text-align: center;
+    background:rgba(0, 174, 255, 0.774)
+}
+
+#wrapper{
+  
+   
+}
+
+#section_1{
+    background-color: rgba(255, 255, 255, 0.774);
+    border: 20px;
+    width: 30%;
+    border-style:outset;
+    margin:auto;
+   
+}
+
+#section_2{
+    background-color: rgb(255, 255, 255);
+    border: 20px;
+    border-style:outset;
+    width: 30%;
+    margin:auto;
+ 
+}
+
+
+#section_3{
+    font-size: 50px;
+}
